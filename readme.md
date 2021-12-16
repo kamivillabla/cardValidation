@@ -1,5 +1,8 @@
 # VerifyCard 
 
+## Link proyecto:
+   https://kuveee.github.io/cardValidation/
+
 ## 1. RESUMEN DEL PROYECTO
 
 Verify Card, es una página web donde puedes ingresar el número de tu tarjeta y verificar que sea un número valido.
